@@ -1,4 +1,4 @@
-# Julia_Neural_Networks_bee_swap_classificaiton
+# Julia_Neural_Networks_bee_wasp_classificaiton
 Use Julia languages to do neural network for classification.
 
 Appreciate to Kaggle, the datasets is coming from: https://www.kaggle.com/datasets/jerzydziewierz/bee-vs-wasp
